@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
 
   textLarge :{
     fontsize:80,
-    fontWeight:Bold,
+    
     color:"red"
 
   },
